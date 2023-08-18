@@ -17,7 +17,7 @@ Each KPI is elaborated with its formula and significance in the provided documen
 
 ## Accessing the Dashboard
 
-The dashboard can be accessed via https://lookerstudio.google.com/s/ng8XsNmINrk
+The dashboard can be accessed via https://lookerstudio.google.com/reporting/4b428769-4f03-4939-a032-59811d21e034
 
 ## Documentation
 
