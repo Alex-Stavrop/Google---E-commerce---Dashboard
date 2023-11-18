@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases an e-commerce dashboard developed using Looker Studio. The dashboard is based on Google's e-commerce dataset and provides insights into various Key Performance Indicators (KPIs) crucial for e-commerce businesses.
+This repository showcases an e-commerce dashboard developed using Looker Studio and BigQuery. The dashboard is based on Google's e-commerce dataset and provides insights into various Key Performance Indicators (KPIs) crucial for e-commerce businesses.
 
 ## KPIs
 
